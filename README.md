@@ -1,6 +1,6 @@
 # La Casa del Deporte
 
- ![image]( https://github.com/mmxifra/mmx-designStore/blob/master/mmxDesignStore.gif)
+
 
 
 ## Proyecto Final para curso de ReactJS

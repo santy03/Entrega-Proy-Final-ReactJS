@@ -18,7 +18,7 @@ Se encuentran todos los productos de la tienda. (Link al home en "La Casa del De
 * Niño
 * Niña
 
-### Detalles de producto
+### Detalles del producto
 
 Haciendo click en el boton "DETALLES" de cada producto accedemos a la informaciòn del producto que hayas elegido.
 

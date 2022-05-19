@@ -2,8 +2,7 @@
 
 
 
-
-## Proyecto Final para curso de ReactJS
+## Proyecto Final  de ReactJs
 
 La Casa del Deporte es un e-commerce de calzados deportivos, con muy buenos precios y los màs accesibles para tu bolsillo.
 
